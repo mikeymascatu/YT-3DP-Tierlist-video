@@ -35,8 +35,7 @@ Just stick to resin printers. Your support strategy boils down to *drop it like 
 Bambu Lab:
 
 S: P1S, A1, A1 mini 
-A: X1C, A1 mini
-
+A: X1C, 
 B: P1P
 C: AMS lite
 D: AMS
@@ -54,14 +53,20 @@ Now onto the A1, everything great about the mini, now bigger. Adopting the large
 Now, It’s time for the AMS. It’s a mess. They have some redeeming qualities like the dry box but it’s so over built, unreliable, hard to work into, and is pickier with filament than a child with veggies. This is the achilles heel of Bambu and it shows. And the waste… *Photos of massive amounts of waste* It’s something we have to face with single nozzle printers. And god does it take its time so D tier.
 
 And the AMS Lite, It’s less over built and is more compatible but still has the curse of it’s bigger brother of time and waste. So slightly better but not by much so C tier.
+
 Creality:
 
 S: E3-V3, E3-V3+, K1C 
 A: K1M 
-B: K1, E3-V3KE,
+B: K1, E3-V3KE, E3-V3SE
 C: E3-V3SE
+
+
 D: 
 F: 
+
+It’s time to look at Creality. Starting with the Ender 3 line, the SE and KE are interesting printers. These printers, with their terrible naming scheme, are not really that great. They follow the creality trend of adding one feature, adding a new name and keeping the price. Let’s start with the SE,the price is super approachable which is a plus, but it gets dramatically outpaced by something like the A1 mini in features and speed for only $90 more. 
+
 
 Elegoo
 
@@ -96,7 +101,7 @@ The SV06+, the SV06 but bigger and better. The + takes the SVO6 from 220x220 to 
 
 The SV07, what I don’t like about the SV06, is now fixed. It’s fast. The touchscreen is big and is that… stock KlipperScreen! Almost every company tries to make what they think is the “best” interface and it just looks rushed, just use what’s already in front of you. Out of everything difficult about Klipper, Klipperscreen isn’t. The next issue is that not everyone can build with 220x220, and that’s where our next printer comes in. A tier.
 
-The SV07+
+The SV07+ is just a bigger SV07 and I’m not mad. Some people love that extra space 
 
 **AD ALERT**
 
@@ -105,13 +110,3 @@ If you want to see me mess with Klipper, check out my 2-part klipper conversion 
 And please, if you enjoy what you see, please like and subscribe to boost the algorithm. Only 6.3% of you all are subscribed.
 
 **AD Over** 
-
-Voron Design:
-
-S: V2.4
-A: Trident
-B: Micron+, SwitchWire
-C: V0.2 
-D:
-F: 
-
