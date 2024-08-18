@@ -6,7 +6,7 @@ Only 3D printers from 2022 or newer and the newest of their class (Ender 3 V3 li
 These are my opinions. I’m not sponsored by any company, I’m currently a Bambu Lab user but I’ve worked with open source software.
 Only printers that have at least 2 weeks of reviews are allowed (as of early June 2024)
 I’m ranking within companies and then as one tier list.
-I will consider the MSRP, not sales. If a company permanently lowers the MSRP, I’ll count that.
+I will consider the MSRP, not sales. If a company permanently lowers the MSRP, I’ll count that. I may mention if there are sales.
 I’m only looking at consumer printers or consumer versions of printers (X1C rather than X1E)
 All of these are amazing machines for different purposes.
 So without a further adieu, let’s do it.
@@ -63,8 +63,12 @@ C:
 D: 
 F: 
 
-It’s time to look at Creality. Starting with the Ender 3 line, the SE and KE are interesting printers. These printers, with their terrible naming scheme, are not really that great. They follow the creality trend of adding one feature, adding a new name and keeping the price. Let’s start with the SE,the price is super approachable which is a plus, but it gets dramatically outpaced by something like the A1 mini in features and speed for only $90 more. 
+It’s time to look at Creality. Starting with the Ender 3 line, the SE and KE are interesting printers. These printers, with their terrible naming scheme, are not really that great. They follow the creality trend of adding one feature, adding a new name and keeping the price. Let’s start with the SE,the price is super approachable which is a plus, but it gets dramatically outpaced by something like the A1 mini in features and speed for only $90 more. But for the price, and featureset. It’s an amazing first option. If you really can’t spend more than $200 on a printer, the V3 SE is great. B tier because for a lil’ more you can do much better.
 
+ Now, the KE, just a faster SE. The KE adds some improvements like faster speeds, larger touchscreen, linear rails,
+ better cooling for $100 more. It’s not excellent, but it acts as a middle ground between the SE and the V3. Honestly, creality needs to learn the word “discontinue” because this ain’t it. B tier.
+
+Now, I’m gonna rapid fire these. K1, rushed as hell and terrible app, but decent P1S competitor B tier. K1 Max, still rushed but larger = slightly better. A tier. K1C fixed what the K1 couldn’t so now it’s actually pretty good. S Tier. V3, terrible name, really solid A1 competitor. It’s a speed demon, pretty well built, good print quality. S tier. V3+, just bigger but bigger is better so S tier.  
 
 Elegoo
 
@@ -75,14 +79,27 @@ C: N4P
 D: N4
 F: 
 
+
+
+
 Prusa
 
 S: MK4
 A: XL
 B: 
 C: Mini+
-D: MK3S
+D: MK3S+
 F: 
+
+Okay, it’s Prusa time. First, why do you sell the Mark 3S+? No way I’m paying $900 bucks. To buy that new, you’d have to have the ultimate Prusa fan. I get why the Mark 4 cost so much but why the mk3s+? Just get rid of it already, D tier
+
+Now, the Mini+. It’s cool but it’s an entry level printer at a mid tier price. With its PTFE hotend, bowden extruder, small bed size (for its prices). It’s not bad, but I expect more for the price even with the “european tax” . I'm not against open source and quality support. Glab prusa supports it but C tier.
+
+Now the MK4, this is a great machine for relativity and consistency. It’s built like a tank and can actually move at a competitive pace. Sure the price is hefty but it comes with a touchscreen, direct drive, their nextruder system, and much more. For $799 for the kit. ** At the time of recording th Mk4 kit is on sale for $699 which is actually a really good price for what you get**  So, while being slow to innovate, it’s great so S tier. 
+
+Now the XL, this is an iffy one. It’s such an innovative printer but it demands the price “my eyes spongebob meme” It had a problematic launch but the implications of the tool changer are insane. Too overkill and experimental for the average person but so innovative for the niche who will use it to it’s advantage so A tier.
+
+
 
 Sovol
  
@@ -99,8 +116,6 @@ The SV06+, the SV06 but bigger and better. The + takes the SVO6 from 220x220 to 
 
 The SV07, what I don’t like about the SV06, is now fixed. It’s fast. The touchscreen is big and is that… stock KlipperScreen! Almost every company tries to make what they think is the “best” interface and it just looks rushed, just use what’s already in front of you. Out of everything difficult about Klipper, Klipperscreen isn’t. The next issue is that not everyone can build with 220x220, and that’s where our next printer comes in. A tier.
 
-The SV07+ is just a bigger SV07 and I’m not mad. Some people love that extra space 
-
 **AD ALERT**
 
 If you want to see me mess with Klipper, check out my 2-part klipper conversion series on the top right.
@@ -110,4 +125,6 @@ And please, if you enjoy what you see, please like and subscribe to boost the al
 **AD Over** 
 
 
-The SV07+ is just a bigger SV07 and I’m not mad. Some people love that extra space. And the pricing and slightly extra space makes this a very well rounded machine 
+The SV07+ is just a bigger SV07 and I’m not mad. Some people love that extra space. And the pricing and slightly extra space makes this a very well rounded machine for the cost (S tier).
+
+Now, the SV08, a pretty good Voron clone. Not perfect but it’s a well built, open source, large format CoreXY and it cuts the right corners to make it half the price of comparable Voron kits. There isn’t much to say since it’s just a Voron with injection molded parts. This is the P1P killer and it’s not clickbait. I mean it’s massive, fast, open source, overall a really good printer if not the perfect printer. S Tier.
