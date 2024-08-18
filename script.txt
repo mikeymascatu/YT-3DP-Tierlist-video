@@ -16,7 +16,7 @@ Channel Intro:
 AnkerMake
 
 S
-A: M5
+A:
 B: M5
 C: M5C
 D
@@ -30,12 +30,13 @@ And is that a camera?  What happened last time with an anker product with camera
 
 Anycubic:
 
-Just stick to resin printers. Your support strategy boils down to *drop it like it’s hot* But the Kobra 3 looks great… Have I seen that before… Just get an A1. but I guess only the Kobra 3 can get A tier, I comes down to if anycubic can actually support the Kobra 3
+Just stick to resin printers. Your support strategy boils down to *drop it like it’s hot* But the Kobra 3 looks great… Have I seen that before… Just get an A1 but I guess only the Kobra 3 can get A tier, I comes down to if anycubic can actually support the Kobra 3
 
 Bambu Lab:
 
-S: P1S, A1 
+S: P1S, A1, A1 mini 
 A: X1C, A1 mini
+
 B: P1P
 C: AMS lite
 D: AMS
@@ -43,11 +44,16 @@ F:
 
 Let’s start with the first Bambu Printer: The X1 Carbon. It’s a great machine and was revolutionary. The issue was that it’s just so overengineered. The AI and LIDAR are cool but seem pedantic with the additional cost. The touchscreen is nice but not worth the over $500 jump in price, especially when the rumored X2C or X2-XL is arriving soon. So it gets A tier.
 
-Next, we have the P1P. The P1P cuts everything from the X1 and leaves the bare minimum. The issue is most a few things on the P1P are half-baked. The screen is just terrible. The only other issue is the price. With the A1, the P1P is cornered into a really bad value. It’s too expensive from the A1 for just the CoreXY system and it’s too close to the P1S which adds an enclosure and many other nice to haves. If the P1P had a permanent price drop to $499 or even $549, this would be a direct competitor to the Sovol SV08 and other printers. B tier.
+Next, we have the P1P. The P1P cuts everything from the X1 and leaves the bare minimum. The issue is a few things on the P1P are half-baked. The screen is just terrible. The only other issue is the price. With the A1, the P1P is cornered into a really bad value. It’s too expensive from the A1 for just the CoreXY system and it’s too close to the P1S which adds an enclosure and many other nice to haves. If the P1P had a permanent price drop to $499 or even $549, this would be a direct competitor to the Sovol SV08 and other printers. B tier.
 Then the P1S, this printer is a much better value. While looks aren’t everything, this, the X1C, and the A1 line look like appliances. The P1P looks like an experiment or a prototype, not something that looks finished. The P1S also adds glass which is a benefit. The P1S puts itself into “the advanced 3D printer”, making the X1C look overkill. S tier.
 
-Now the A1 mini, The smallest printer and betraying Bambu's promise of “no more bed-slingers” However, I can’t believe I have to say this but size doesn’t matter. This thing proved that 3D printing is fun and truly showed the masses the magic of making things fast. It’s so easy and the price is nothing like it. Only $250 (not including the sale) is bonkers for this level of polish. I’m not even complaining about the material selection, it’s
+Now the A1 mini, The smallest printer and betraying Bambu's promise of “no more bed-slingers” However, I can’t believe I have to say this but size doesn’t matter. This thing proved that 3D printing is fun and truly showed the masses the magic of making things fast. It’s so easy and the price is nothing like it. Only $250 (not including the sale) is bonkers for this level of polish. I’m not even complaining about the material selection, it’s 250, What can you expect with this level of polish and sensors? It’s a bit too small for some projects but most average people won’t need that much space so for introducing many people to 3D printing it gets a S tier. 
 
+Now onto the A1, everything great about the mini, now bigger. Adopting the larger size of their other printers, the A1 hits that sweet spot of being too limited and overkill. Yes, the heat bed incident left a sour taste but they handled it better than most companies would. Did you notice how almost no one stopped using them during the recall. And the price is fair enough for the larger screen and build size. So S tier, there’s a reason so many people recommend the A1 as the best printer under $400.  
+
+Now, It’s time for the AMS. It’s a mess. They have some redeeming qualities like the dry box but it’s so over built, unreliable, hard to work into, and is pickier with filament than a child with veggies. This is the achilles heel of Bambu and it shows. And the waste… *Photos of massive amounts of waste* It’s something we have to face with single nozzle printers. And god does it take its time so D tier.
+
+And the AMS Lite, It’s less over built and is more compatible but still has the curse of it’s bigger brother of time and waste. So slightly better but not by much so C tier.
 Creality:
 
 S: E3-V3, E3-V3+, K1C 
@@ -108,3 +114,4 @@ B: Micron+, SwitchWire
 C: V0.2 
 D:
 F: 
+
