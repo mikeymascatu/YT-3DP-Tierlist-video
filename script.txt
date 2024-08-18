@@ -16,16 +16,17 @@ Channel Intro:
 AnkerMake
 
 S
-A:
+A: M5C
 B: M5
 C: M5C
 D
 F
 
-Starting with the Ankermake M5, this thing has some glowing qualities. Anker’s reputation and industrial practice makes the M5 very well built and honestly one of the better looking printers out there. It also greats the thing that every Bambu clone misses, ease of use. Since everyone ran to Klipper as an open source alternative, it adds a layer of complexity. Ankermake actually makes it pretty easy to use so that’s amazing. However, the M5 has a few issues. First, being built of aluminum makes it really expensive for what you get, you still get v rollers on a $700 printer. And look, the infection of AI. 
+Starting with the Ankermake M5, this thing has some glowing qualities. Anker’s reputation and industrial practice makes the M5 very well built and honestly one of the better looking printers out there. It also greats the thing that every Bambu clone misses, ease of use. Since everyone ran to Klipper as an open source alternative, it adds a layer of complexity. Ankermake actually makes it pretty easy to use so that’s amazing. However, the M5 has a few issues. First, being built of aluminum makes it really expensive for what you get, you still get v rollers on a $700 printer. And look, the infection of AI. B tier 
 
 *I fear no man but that thing… (compilation of AI on 3D printers) It scares me*
-
+And the M5C, if they had added a touchscreen, this would be a pretty good printer but I feel removing all of the interfaces and just slapping on a button seems like cutting a massive corner. But the price is great so A tier.
+   
 And is that a camera?  What happened last time with an anker product with cameras? *Eufy incident* Doesn’t Anker have a “un”security company?? We’re all scared of Bambu but I think Anker has currently done worse. Not that they’ll do it again but leaves a sour taste.
 
 Anycubic:
@@ -65,21 +66,21 @@ F:
 
 It’s time to look at Creality. Starting with the Ender 3 line, the SE and KE are interesting printers. These printers, with their terrible naming scheme, are not really that great. They follow the creality trend of adding one feature, adding a new name and keeping the price. Let’s start with the SE,the price is super approachable which is a plus, but it gets dramatically outpaced by something like the A1 mini in features and speed for only $90 more. But for the price, and featureset. It’s an amazing first option. If you really can’t spend more than $200 on a printer, the V3 SE is great. B tier because for a lil’ more you can do much better.
 
- Now, the KE, just a faster SE. The KE adds some improvements like faster speeds, larger touchscreen, linear rails,
- better cooling for $100 more. It’s not excellent, but it acts as a middle ground between the SE and the V3. Honestly, creality needs to learn the word “discontinue” because this ain’t it. B tier.
+ Now, the KE, just a faster SE. The KE adds some improvements like faster speeds, larger touchscreen, linear rails, better cooling for $100 more. It’s not excellent, but it acts as a middle ground between the SE and the V3. Honestly, creality needs to learn the word “discontinue” because this ain’t it. B tier.
 
 Now, I’m gonna rapid fire these. K1, rushed as hell and terrible app, but decent P1S competitor B tier. K1 Max, still rushed but larger = slightly better. A tier. K1C fixed what the K1 couldn’t so now it’s actually pretty good. S Tier. V3, terrible name, really solid A1 competitor. It’s a speed demon, pretty well built, good print quality. S tier. V3+, just bigger but bigger is better so S tier.  
 
 Elegoo
 
-S: 
-A: N4Max
-B: N4+
-C: N4P
+S: N4Max
+A: N4MaxN4+
+B: N4+N4P
+C: N4P OrangeStorm 
 D: N4
 F: 
 
-
+So it’s time for Elegoo. First, why does Neptune 4 exist? Not the series but the base printer. The Neptune 4 is way too close to the pro. I had to dig for a comparison between the 2. Like elegoo, split the bed heaters into 2 and use linear rails. That’s fine but then they should either make the neptune 4 cheaper or get rid of it. So it gets a D tier. Now if the neptune 4 pro keeps its price. It’s an all-round great printer but the lack of wifi is a big turnoff for some people. And the neptune series has quite a few reliability issues so… The 4 plus is a decent mid range but also adds wifi 
+ 
 
 
 Prusa
