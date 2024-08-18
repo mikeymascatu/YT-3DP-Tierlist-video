@@ -59,9 +59,7 @@ Creality:
 S: E3-V3, E3-V3+, K1C 
 A: K1M 
 B: K1, E3-V3KE, E3-V3SE
-C: E3-V3SE
-
-
+C: 
 D: 
 F: 
 
@@ -110,3 +108,6 @@ If you want to see me mess with Klipper, check out my 2-part klipper conversion 
 And please, if you enjoy what you see, please like and subscribe to boost the algorithm. Only 6.3% of you all are subscribed.
 
 **AD Over** 
+
+
+The SV07+ is just a bigger SV07 and I’m not mad. Some people love that extra space. And the pricing and slightly extra space makes this a very well rounded machine 
